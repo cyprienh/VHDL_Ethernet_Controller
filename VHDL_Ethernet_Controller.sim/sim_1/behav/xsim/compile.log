@@ -1,0 +1,167 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/cheus/Documents/INSA/VHDL/VHDL_Ethernet_Controller/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Transmitter'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/new/CRC32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CRC32
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/new/CRC32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CRC32
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/new/CRC32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CRC32
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+ERROR: [VRFC 10-91] tdata2 is not declared [/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd:71]
+ERROR: [VRFC 10-1504] unit behavioral ignored due to previous errors [/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd:22]
+INFO: [VRFC 10-240] VHDL file /home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+ERROR: [VRFC 10-91] tdata2 is not declared [/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd:60]
+ERROR: [VRFC 10-91] tdata2 is not declared [/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd:71]
+ERROR: [VRFC 10-1504] unit behavioral ignored due to previous errors [/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd:22]
+INFO: [VRFC 10-240] VHDL file /home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmitter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/new/memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Memory
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_Receiver
