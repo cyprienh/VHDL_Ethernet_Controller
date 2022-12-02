@@ -11,15 +11,15 @@
       </db_ref>
    </db_ref_list>
    <zoom_setting>
-      <ZoomStartTime time="4116127000fs"></ZoomStartTime>
-      <ZoomEndTime time="4810127001fs"></ZoomEndTime>
-      <Cursor1Time time="4627127000fs"></Cursor1Time>
+      <ZoomStartTime time="12257012888fs"></ZoomStartTime>
+      <ZoomEndTime time="15530705080fs"></ZoomEndTime>
+      <Cursor1Time time="17000000000fs"></Cursor1Time>
    </zoom_setting>
    <column_width_setting>
       <NameColumnWidth column_width="175"></NameColumnWidth>
-      <ValueColumnWidth column_width="76"></ValueColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
    </column_width_setting>
-   <WVObjectSize size="20" />
+   <WVObjectSize size="17" />
    <wvobject type="logic" fp_name="/Test_Controller/CLK10I">
       <obj_property name="ElementShortName">CLK10I</obj_property>
       <obj_property name="ObjectShortName">CLK10I</obj_property>
@@ -31,6 +31,10 @@
    <wvobject type="logic" fp_name="/Test_Controller/RENABP">
       <obj_property name="ElementShortName">RENABP</obj_property>
       <obj_property name="ObjectShortName">RENABP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Controller/uut/receive/RCVNGP_OBUF">
+      <obj_property name="ElementShortName">RCVNGP_OBUF</obj_property>
+      <obj_property name="ObjectShortName">RCVNGP_OBUF</obj_property>
    </wvobject>
    <wvobject type="array" fp_name="/Test_Controller/RDATAI">
       <obj_property name="ElementShortName">RDATAI[7:0]</obj_property>
@@ -44,6 +48,10 @@
       <obj_property name="ElementShortName">TAVAILP</obj_property>
       <obj_property name="ObjectShortName">TAVAILP</obj_property>
    </wvobject>
+   <wvobject type="logic" fp_name="/Test_Controller/uut/transmit/TRNSMTP_OBUF">
+      <obj_property name="ElementShortName">TRNSMTP_OBUF</obj_property>
+      <obj_property name="ObjectShortName">TRNSMTP_OBUF</obj_property>
+   </wvobject>
    <wvobject type="array" fp_name="/Test_Controller/TDATAI">
       <obj_property name="ElementShortName">TDATAI[7:0]</obj_property>
       <obj_property name="ObjectShortName">TDATAI[7:0]</obj_property>
@@ -56,6 +64,18 @@
       <obj_property name="ElementShortName">TABORTP</obj_property>
       <obj_property name="ObjectShortName">TABORTP</obj_property>
    </wvobject>
+   <wvobject type="logic" fp_name="/Test_Controller/uut/collide/TSOCOL">
+      <obj_property name="ElementShortName">TSOCOL</obj_property>
+      <obj_property name="ObjectShortName">TSOCOL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Controller/uut/collide/TSMCOL">
+      <obj_property name="ElementShortName">TSMCOL</obj_property>
+      <obj_property name="ObjectShortName">TSMCOL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Controller/uut/collide/TSECOL">
+      <obj_property name="ElementShortName">TSECOL</obj_property>
+      <obj_property name="ObjectShortName">TSECOL</obj_property>
+   </wvobject>
    <wvobject type="logic" fp_name="/Test_Controller/TFINISHP">
       <obj_property name="ElementShortName">TFINISHP</obj_property>
       <obj_property name="ObjectShortName">TFINISHP</obj_property>
@@ -64,40 +84,8 @@
       <obj_property name="ElementShortName">TLASTP</obj_property>
       <obj_property name="ObjectShortName">TLASTP</obj_property>
    </wvobject>
-   <wvobject type="logic" fp_name="/Test_Controller/TLAST">
-      <obj_property name="ElementShortName">TLAST</obj_property>
-      <obj_property name="ObjectShortName">TLAST</obj_property>
-   </wvobject>
-   <wvobject type="other" fp_name="/Test_Controller/TCURRDATA">
-      <obj_property name="ElementShortName">TCURRDATA</obj_property>
-      <obj_property name="ObjectShortName">TCURRDATA</obj_property>
-   </wvobject>
    <wvobject type="logic" fp_name="/Test_Controller/TREADDP">
       <obj_property name="ElementShortName">TREADDP</obj_property>
       <obj_property name="ObjectShortName">TREADDP</obj_property>
-   </wvobject>
-   <wvobject type="array" fp_name="/Test_Controller/RCLK">
-      <obj_property name="ElementShortName">RCLK[2:0]</obj_property>
-      <obj_property name="ObjectShortName">RCLK[2:0]</obj_property>
-   </wvobject>
-   <wvobject type="other" fp_name="/Test_Controller/RCURRDATA">
-      <obj_property name="ElementShortName">RCURRDATA</obj_property>
-      <obj_property name="ObjectShortName">RCURRDATA</obj_property>
-   </wvobject>
-   <wvobject type="other" fp_name="/Test_Controller/Clock_period">
-      <obj_property name="ElementShortName">Clock_period</obj_property>
-      <obj_property name="ObjectShortName">Clock_period</obj_property>
-   </wvobject>
-   <wvobject type="array" fp_name="/Test_Controller/TDATA">
-      <obj_property name="ElementShortName">TDATA[0:11][7:0]</obj_property>
-      <obj_property name="ObjectShortName">TDATA[0:11][7:0]</obj_property>
-   </wvobject>
-   <wvobject type="array" fp_name="/Test_Controller/RDATA">
-      <obj_property name="ElementShortName">RDATA[0:34][7:0]</obj_property>
-      <obj_property name="ObjectShortName">RDATA[0:34][7:0]</obj_property>
-   </wvobject>
-   <wvobject type="logic" fp_name="/Test_Controller/uut/collide/TRETRY">
-      <obj_property name="ElementShortName">TRETRY</obj_property>
-      <obj_property name="ObjectShortName">TRETRY</obj_property>
    </wvobject>
 </wave_config>

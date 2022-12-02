@@ -2,3 +2,6 @@ Running: xsim.dir/Test_Controller_behav/xsimk -simmode gui -wdb Test_Controller_
 Design successfully loaded
 Design Loading Memory Usage: 32828 KB (Peak: 32828 KB)
 Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 114564 KB (Peak: 180100 KB)
+Simulation CPU Usage: 190 ms
