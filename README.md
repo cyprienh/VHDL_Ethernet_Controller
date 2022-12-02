@@ -1,5 +1,6 @@
 # Contrôleur Ethernet en VHDL
 Ce repository contient le code VHDL du contrôleur E-10 Core (ethernet) réalisé par Cyprien Heusse dans le cadre du BE de VHDL à l'INSA de Toulouse.
+Pour mieux visualiser ce fichier, veuillez l'ouvrir dans un lecteur Markdown qui permettra de visualiser les images et les tableaux correctement. Ce fichier est disponible en ligne à l'adresse suivante : [ici](https://link-url-here.org)
 
 ## Composants
 Le contrôleur est fait de 3 composants différents :
