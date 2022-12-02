@@ -1,6 +1,6 @@
 Vivado Simulator 2018.2
 Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
-Running: /usr/local/insa/Xilinx.VIVADO/Vivado/2018.2/bin/unwrapped/lnx64.o/xelab -wto 3bbca218af53450cbecfeb7b27e08d41 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot Test_Receiver_behav xil_defaultlib.Test_Receiver -log elaborate.log 
+Running: /usr/local/insa/Xilinx.VIVADO/Vivado/2018.2/bin/unwrapped/lnx64.o/xelab -wto 3bbca218af53450cbecfeb7b27e08d41 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot Test_Controller_behav xil_defaultlib.Test_Controller -log elaborate.log 
 Using 8 slave threads.
 Starting static elaboration
 Completed static elaboration
@@ -13,8 +13,12 @@ Compiling package ieee.std_logic_1164
 Compiling package ieee.numeric_std
 Compiling package ieee.std_logic_arith
 Compiling package ieee.std_logic_unsigned
-Compiling architecture behavioral of entity xil_defaultlib.Memory [memory_default]
 Compiling architecture behavioral of entity xil_defaultlib.CRC32 [crc32_default]
+Compiling architecture behavioral of entity xil_defaultlib.Transmitter [\Transmitter(noaddri="0001101000...]
+Compiling architecture behavioral of entity xil_defaultlib.Memory [memory_default]
 Compiling architecture behavioral of entity xil_defaultlib.Receiver [receiver_default]
-Compiling architecture behavioral of entity xil_defaultlib.test_receiver
-Built simulation snapshot Test_Receiver_behav
+Compiling architecture behavioral of entity xil_defaultlib.LFSR [\LFSR(value="1011101010010101110...]
+Compiling architecture behavioral of entity xil_defaultlib.Collision [collision_default]
+Compiling architecture structural of entity xil_defaultlib.Controller [controller_default]
+Compiling architecture behavioral of entity xil_defaultlib.test_controller
+Built simulation snapshot Test_Controller_behav

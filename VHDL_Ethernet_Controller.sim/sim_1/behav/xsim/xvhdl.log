@@ -1,4 +1,4 @@
 INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd" into library xil_defaultlib
 INFO: [VRFC 10-307] analyzing entity Receiver
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sim_1/new/Test_Receiver.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity Test_Receiver
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Controller

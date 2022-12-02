@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Dec  2 11:12:35 2022
+# Process ID: 267067
+# Current directory: /home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.runs/synth_1
+# Command line: vivado -log Controller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Controller.tcl
+# Log file: /home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.runs/synth_1/Controller.vds
+# Journal file: /home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source Controller.tcl -notrace

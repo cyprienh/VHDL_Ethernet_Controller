@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.sim/sim_1/synth/func/xsim/Test_Controller_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Collision
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-311] analyzing module LFSR
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-311] analyzing module Receiver
+INFO: [VRFC 10-311] analyzing module Transmitter
+INFO: [VRFC 10-311] analyzing module xil_defaultlib_CRC32
+INFO: [VRFC 10-311] analyzing module xil_defaultlib_CRC32_0
+INFO: [VRFC 10-311] analyzing module glbl

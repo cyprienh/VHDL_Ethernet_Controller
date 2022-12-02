@@ -50,6 +50,7 @@ begin
                 DATA_OUT <= RAM(to_integer(unsigned(ADDR)));
             else
                 RAM(to_integer(unsigned(ADDR))) <= DATA_IN;
+                DATA_OUT <= (others => 'U');
             end if;
         end if;
   end process;

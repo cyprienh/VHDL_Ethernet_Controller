@@ -1,0 +1,4 @@
+Breakpoint File Version 1.0
+184 true /home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd
+178 true /home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/receiver.vhd
+113 true /home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.srcs/sources_1/imports/Sources/transmitter.vhd

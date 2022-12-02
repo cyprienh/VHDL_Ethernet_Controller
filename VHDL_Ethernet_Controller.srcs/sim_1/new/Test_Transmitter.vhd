@@ -82,12 +82,9 @@ begin
     
     TDATAI <= DATA(to_integer(unsigned((CURRDATA))));
     TLASTP <= TLAST;
-    -- Stimulus process
-    stim_proc: process(TREADDP)
+    transmitter_proc: process(TREADDP)
     begin
-      -- insert stimulus here
         if rising_edge(TREADDP) then 
-            --wait for 1ns;
             if CURRDATA < 10 then
                 CURRDATA <= CURRDATA+1 after 1ns;
                 if CURRDATA = 9 then
@@ -97,8 +94,6 @@ begin
                 CURRDATA <= (others => '0');
                 TLAST <= '0' after 1ns;
             end if;
-            
         end if;
-        --TDATAI <= "11110000" after 90ns, "00001111" after 170ns, "10101010" after 250ns,  "11110000" after 330ns, "00001111" after 410ns, "10101010" after 490ns,  "11110000" after 570ns, "00001111" after 650ns, "10101010" after 730ns;
     end process;
 end;

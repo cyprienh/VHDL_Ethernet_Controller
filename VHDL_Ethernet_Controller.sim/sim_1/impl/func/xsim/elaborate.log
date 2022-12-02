@@ -1,7 +1,7 @@
-Vivado Simulator 2018.3
+Vivado Simulator 2018.2
 Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 7eb8673ce57247fd817e11b9610a440c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot Test_Transmitter_func_impl xil_defaultlib.Test_Transmitter xil_defaultlib.glbl -log elaborate.log 
-Using 2 slave threads.
+Running: /usr/local/insa/Xilinx.VIVADO/Vivado/2018.2/bin/unwrapped/lnx64.o/xelab -wto 3bbca218af53450cbecfeb7b27e08d41 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L secureip --snapshot Test_Controller_func_impl xil_defaultlib.Test_Controller xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
 Starting static elaboration
 Completed static elaboration
 Starting simulation data flow analysis
@@ -17,21 +17,35 @@ Compiling package vl.vl_types
 Compiling module xil_defaultlib.glbl
 Compiling module unisims_ver.BUFG
 Compiling module unisims_ver.IBUF
-Compiling module unisims_ver.x_lut2_mux4
-Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.OBUF
+Compiling module unisims_ver.OBUFT
 Compiling module unisims_ver.x_lut3_mux8
 Compiling module unisims_ver.LUT3
-Compiling module unisims_ver.LUT5
-Compiling module unisims_ver.LUT6
-Compiling module unisims_ver.LUT4
 Compiling module unisims_ver.FDRE_default
 Compiling module unisims_ver.x_lut1_mux2
 Compiling module unisims_ver.LUT1
-Compiling module unisims_ver.CARRY4
-Compiling module unisims_ver.OBUF
-Compiling module unisims_ver.OBUFT
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.LUT4
+Compiling module unisims_ver.LUT5
+Compiling module unisims_ver.LUT6
 Compiling module unisims_ver.FDRE(INIT=1'b1)
+Compiling module unisims_ver.SRL16E_default
+Compiling module xil_defaultlib.LFSR
+Compiling module unisims_ver.CARRY4
+Compiling module xil_defaultlib.Collision
+Compiling module unisims_ver.FDSE(INIT=1'b0)
+Compiling module unisims_ver.FDPE(IS_C_INVERTED=1'b1)
+Compiling module unisims_ver.MUXF8
+Compiling module unisims_ver.MUXF7
+Compiling module xil_defaultlib.xil_defaultlib_CRC32_0
+Compiling module unisims_ver.RB18_INTERNAL_VLOG(RDADDR_COLLIS...
+Compiling module unisims_ver.RAMB18E1(RDADDR_COLLISION_HWCONF...
+Compiling module xil_defaultlib.Memory
+Compiling module xil_defaultlib.Receiver
 Compiling module unisims_ver.FDSE_default
+Compiling module xil_defaultlib.xil_defaultlib_CRC32
 Compiling module xil_defaultlib.Transmitter
-Compiling architecture behavioral of entity xil_defaultlib.test_transmitter
-Built simulation snapshot Test_Transmitter_func_impl
+Compiling module xil_defaultlib.Controller
+Compiling architecture behavioral of entity xil_defaultlib.test_controller
+Built simulation snapshot Test_Controller_func_impl

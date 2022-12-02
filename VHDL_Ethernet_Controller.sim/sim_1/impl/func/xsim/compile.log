@@ -1,5 +1,10 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/cheus/Documents/INSA/VHDL/VHDL_Ethernet_Controller/BE_Ethernet.sim/sim_1/impl/func/xsim/Test_Transmitter_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/heusse/Documents/4A-VHDL-S2/VHDL_Ethernet_Controller/VHDL_Ethernet_Controller.sim/sim_1/impl/func/xsim/Test_Controller_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Collision
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-311] analyzing module LFSR
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-311] analyzing module Receiver
 INFO: [VRFC 10-311] analyzing module Transmitter
+INFO: [VRFC 10-311] analyzing module xil_defaultlib_CRC32
+INFO: [VRFC 10-311] analyzing module xil_defaultlib_CRC32_0
 INFO: [VRFC 10-311] analyzing module glbl
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/cheus/Documents/INSA/VHDL/VHDL_Ethernet_Controller/BE_Ethernet.srcs/sim_1/new/Test_Transmitter.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'Test_Transmitter'

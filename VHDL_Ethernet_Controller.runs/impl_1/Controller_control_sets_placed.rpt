@@ -1,0 +1,93 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (lin64) Build 2258646 Thu Jun 14 20:02:38 MDT 2018
+| Date         : Fri Dec  2 11:14:07 2022
+| Host         : insa-11276 running 64-bit Ubuntu 20.04.5 LTS
+| Command      : report_control_sets -verbose -file Controller_control_sets_placed.rpt
+| Design       : Controller
+| Device       : xc7a35t
+---------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |    25 |
+| Unused register locations in slices containing registers |    84 |
++----------------------------------------------------------+-------+
+
+
+2. Histogram
+------------
+
++--------+--------------+
+| Fanout | Control Sets |
++--------+--------------+
+|      2 |            9 |
+|      8 |            2 |
+|     10 |            1 |
+|     12 |            3 |
+|    16+ |           10 |
++--------+--------------+
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              80 |           20 |
+| No           | No                    | Yes                    |             128 |           24 |
+| No           | Yes                   | No                     |              22 |            8 |
+| Yes          | No                    | No                     |              60 |           12 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |             146 |           25 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++-----------------------------+----------------------------+------------------------------+------------------+----------------+
+|         Clock Signal        |        Enable Signal       |       Set/Reset Signal       | Slice Load Count | Bel Load Count |
++-----------------------------+----------------------------+------------------------------+------------------+----------------+
+|  CLK10I_IBUF_BUFG           |                            | receive/RSMATIP_reg_0        |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | RENABP_IBUF                | receive/RSMATIP_reg_0        |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | transmit/TSTARTP12_out     | transmit/TSTARTP_i_1_n_0     |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | receive/RBYTEP_i_2_n_0     | receive/RBYTEP_i_1_n_0       |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | receive/RCLEANP_i_2_n_0    | receive/RSTATUS31_out        |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | transmit/TREADDP15_out     |                              |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | receive/RSMATIP_reg_0      | receive/RSMATIP_i_1_n_0      |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | receive/RSTARTP_i_2_n_0    | receive/RSTARTP_i_1_n_0      |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | receive/RSFCSEP_i_1_n_0    | receive/RSTATUS31_out        |                1 |              2 |
+|  CLK10I_IBUF_BUFG           | collide/CWAIT              | collide/CWAITCLK[5]_i_1_n_0  |                2 |              8 |
+|  CLK10I_IBUF_BUFG           |                            | transmit/TCRCRST_i_1_n_0     |                3 |              8 |
+|  CLK10I_IBUF_BUFG           | collide/COLCNT[4]_i_1_n_0  | transmit/TSUCCESS            |                2 |             10 |
+|  CLK10I_IBUF_BUFG           |                            | transmit/TDEST100_out        |                4 |             12 |
+|  CLK10I_IBUF_BUFG           | collide/CWAIT              |                              |                2 |             12 |
+|  CLK10I_IBUF_BUFG           | transmit/TBYTECLK          |                              |                3 |             12 |
+|  CLK10I_IBUF_BUFG           | receive/RDATAO[7]_i_2_n_0  | receive/RDATAO[7]_i_1_n_0    |                2 |             16 |
+|  CLK10I_IBUF_BUFG           | transmit/TDATA2[6]_i_1_n_0 | transmit/TDATA2[7]_i_1_n_0   |                1 |             16 |
+|  CLK10I_IBUF_BUFG           | transmit/TDATA2[6]_i_1_n_0 |                              |                2 |             16 |
+|  CLK10I_IBUF_BUFG           | collide/CR[9]_i_1_n_0      |                              |                4 |             18 |
+|  CLK10I_IBUF_BUFG           | transmit/TDATACNT          | transmit/TDATACNT[0]_i_1_n_0 |                3 |             24 |
+|  CLK10I_IBUF_BUFG           | receive/RBYTECLK           | receive/RBYTECLK[0]_i_1_n_0  |                4 |             28 |
+|  CLK10I_IBUF_BUFG           | collide/CR[9]_i_1_n_0      | collide/CR[24]_i_1_n_0       |                4 |             30 |
+| ~CLK                        |                            | transmit/RST                 |               13 |             64 |
+| ~CRCCALC_reg[31]_i_2__0_n_0 |                            | receive/RST                  |               11 |             64 |
+|  CLK10I_IBUF_BUFG           |                            |                              |               21 |             82 |
++-----------------------------+----------------------------+------------------------------+------------------+----------------+
+
+
