@@ -14,7 +14,7 @@ Chaque composant est détaillé ci-après
 L'émetteur permet d'envoyer la trame depuis l'hôte vers le réseau.
 J'ai essayé de le rendre le plus fidèle possible à la spécification originale. Ainsi, il envoie des trames au format suivant :
 
-![Capture d’écran 2022-12-02 à 11 49 31](https://user-images.githubusercontent.com/46382251/205276285-fbdfd297-a5ee-42b7-9f8a-daa84f7f9965.png)
+<img width="434" alt="Capture d’écran 2022-12-02 à 11 49 31" src="https://user-images.githubusercontent.com/46382251/205276285-fbdfd297-a5ee-42b7-9f8a-daa84f7f9965.png">
 
 Ce format est exactement celui de la spécification.
 Quand des données sont indiquées comme étant disponibles par l'hôte:
