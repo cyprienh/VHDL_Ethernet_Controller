@@ -13,6 +13,7 @@ Chaque composant est détaillé ci-après
 ### Émetteur
 L'émetteur permet d'envoyer la trame depuis l'hôte vers le réseau.
 J'ai essayé de le rendre le plus fidèle possible à la spécification originale. Ainsi, il envoie des trames au format suivant :
+
 <img width="434" alt="Capture d’écran 2022-12-02 à 11 49 31" src="https://user-images.githubusercontent.com/46382251/205276285-fbdfd297-a5ee-42b7-9f8a-daa84f7f9965.png">
 
 Ce format est exactement celui de la spécification.
@@ -79,8 +80,10 @@ Min  |Period|n/a   |BUFG/I  |n/a          |**2.155**       |   10.000 |   7.845 
 La fréquence utilisée est de 100MHz mais on pourrait monter à 460MHz sans avoir de problème sur le fonctionnement du circuit.
 
 Pour ce qui est des tests et des simulations, les captures suivantes montrent le résultat d'une simulation effectuée avec le fichier "Test_Controller" :
+
 ![Capture du 2022-12-02 11-18-09](https://user-images.githubusercontent.com/46382251/205275896-082ee114-9fb3-46c6-9506-f6d2a5cc288c.png)
 
 Les captures suivantes montre un détail de transmission interrompue par une réception et une transmission qui réussie ensuite. Il s'agit de détails de la première capture.
+
 ![Capture du 2022-12-02 11-19-03](https://user-images.githubusercontent.com/46382251/205275965-cf9a60b6-1d7d-46b3-968b-d3f64642e033.png)
 ![Capture du 2022-12-02 11-19-45](https://user-images.githubusercontent.com/46382251/205275982-4d874a2a-1650-4e79-a488-8bdb23304fef.png)
